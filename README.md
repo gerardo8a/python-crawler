@@ -1,4 +1,4 @@
 python-crawler
 ==============
 
-Crawler example
+This is just an example of a crawler built built in python
